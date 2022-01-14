@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+canvas {
+  background-color: #8a7874;
+  height: 800px;
+  width: 800px;
+}
